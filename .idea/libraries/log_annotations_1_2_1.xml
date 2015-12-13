@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="log-annotations-1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nomad5.log/log-annotations/1.2.1/3c659e6d08d8573018af08710ee8fc712b2bde9a/log-annotations-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nomad5.log/log-annotations/1.2.1/c7339c83efe94404eb045f3c9c2b59ce66f5da32/log-annotations-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

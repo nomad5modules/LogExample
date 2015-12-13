@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="log-runtime-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.nomad5.log/log-runtime/1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.nomad5.log/log-runtime/1.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nomad5.log/log-runtime/1.2.1/a70411c70e8a4e155beac1ab57ee4d8a520619e5/log-runtime-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
